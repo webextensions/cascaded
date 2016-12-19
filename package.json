@@ -1,0 +1,29 @@
+{
+  "name": "cascaded",
+  "version": "0.0.0",
+  "description": "Get JSON object from cascaded .cjson files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webextensions/cascaded.git"
+  },
+  "keywords": [
+    "JSON",
+    "cascaded",
+    "cjson",
+    "file",
+    "files"
+  ],
+  "author": "Priyank Parashar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webextensions/cascaded/issues"
+  },
+  "homepage": "https://github.com/webextensions/cascaded#readme",
+  "dependencies": {
+    "oconf": "^5.2.0"
+  }
+}
